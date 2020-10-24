@@ -1,0 +1,31 @@
+	
+
+    {
+        margin: auto;
+}
+   /* center links to the right */
+	.right{
+        text-align: right;
+    }
+    /* edit the image */
+	.img {
+        text-align: center;
+        line-height: 300px;
+        visibility: visible;
+      }
+      /* modification of the search bar */
+      .src {
+        position: absolute;
+        top: 30%;
+        left: 40%;
+        border-radius: 20px;
+        padding: 5px;
+        width: 200px;
+    }    
+  
+
+    
+
+
+
+    
